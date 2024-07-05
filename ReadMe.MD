@@ -22,7 +22,7 @@ This project aims to automate the navigation to the Dynamics 365 website via Goo
 
 1. Clone the repository:
     ```sh
-    git clone <url here>
+    git clone <https://github.com/SubhashVaddella/4Com-Project.git>
     cd Dynamics365Project
     ```
 
